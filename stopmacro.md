@@ -1,6 +1,6 @@
 # VBA-StopSignalTask
 
-This code analyzes (Logan's Stop Signal Task)[https://www.psytoolkit.org/experiment-library/stopsignal.html] that is modified for an fMRI experiment
+This code analyzes [https://www.psytoolkit.org/experiment-library/stopsignal.html,"Logan's Stop Signal Task"] that is modified for an fMRI experiment
 
 Sub StopV13()
 
