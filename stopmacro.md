@@ -1,7 +1,7 @@
 # VBA-StopSignalTask
 
 This code analyzes [Logan's Stop Signal Task](https://www.psytoolkit.org/experiment-library/stopsignal.html) that is modified for an fMRI experiment
-
+```
 Sub StopV13()
 
 Dim sh As Worksheet
@@ -243,7 +243,7 @@ Newsh.Cells(LastRow + 1, 1).Value = participant
 
 End Sub
 
-
+```
 
 
 
